@@ -5,7 +5,8 @@ A flutter developer, frontend developer & backend developer
 -----------------------------------------------------------
 
 Backend, frontend, mobile, desktop applications are my golden spot. I can develop/have developed multiple application regarding these technology stacks. Recently, I've started working on MicroController programming with Arduino too & looking forward to learn more about backend (Go) & system level programming (Rust & C++)
-* 🌍  I'm based in Bangladesh* 🖥️  See my portfolio at [krtirtho.varcel.com (WIP)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* 🌍  I'm based in Bangladesh
+* 🖥️  See my portfolio at [krtirtho.varcel.com (WIP)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * ✉️  You can contact me at [krtirtho@gmail.com](mailto:krtirtho@gmail.com)
 * 🚀  I'm currently working on [Spotube](http://github.com/KRTirtho/spotube)
 * 🧠  I'm learning Go (backend)
