@@ -1,8 +1,5 @@
-Hi 👋 My name is Kingkor Roy Tirtho
+Kingkor Roy Tirtho
 ===================================
-
-A flutter developer, frontend developer & backend developer
------------------------------------------------------------
 
 Frontend developer who's weapon of choice is Flutter and for Millie attacks, I use NextJS.
 
