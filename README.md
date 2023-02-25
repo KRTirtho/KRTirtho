@@ -4,14 +4,13 @@ Hi 👋 My name is Kingkor Roy Tirtho
 A flutter developer, frontend developer & backend developer
 -----------------------------------------------------------
 
-Backend, frontend, mobile, desktop applications are my golden spot. I can develop/have developed multiple application regarding these technology stacks. Recently, I've started working on MicroController programming with Arduino too & looking forward to learn more about backend (Go) & system level programming (Rust & C++)
-* 🌍  I'm based in Bangladesh
+Frontend developer who's weapon of choice is Flutter and for Millie attacks, I use NextJS.
+
+* 🌍  Ever hear of Bangladesh? It's a country in South Asia. I'm from there
 * 🖥️  See my portfolio at [krtirtho.varcel.com (WIP)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* ✉️  You can contact me at [krtirtho@gmail.com](mailto:krtirtho@gmail.com)
-* 🚀  I'm currently working on [Spotube](http://github.com/KRTirtho/spotube)
-* 🧠  I'm learning Go (backend)
-* 🤝  I'm open to collaborating on flutter, react, nextjs, vue, nodejs, nestjs, supabase etc projects
-* ⚡  Fun Fact: Did you know JSON is a valid syntax in YAML? Since YAML is an extension of JSON, its specification supports JSON syntax too All of the YAML parsers are able parse JSON used inside a YAML file
+* 🚀  I'm currently working on [Fl-Query](http://github.com/KRTirtho/fl-query)
+* 🧠  I'm learning nothing. Exam's killing me
+* ⚡  Fun Fact: There's no Web 3. It's just a marketing term. The closest to web 3 is the [fediverse](https://fediverse.party/)
 
 
 ### Skills
@@ -72,16 +71,18 @@ Backend, frontend, mobile, desktop applications are my golden spot. I can develo
 </p>
 
 
-### Socials<p align="left"> <a href="https://www.dev.to/krtirtho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/KRTirtho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://krtirtho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kingkor-roy-tirtho-810b951b4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@krtirtho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13292290/kr-tirtho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@KrTirtho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/KRTirtho"><img src="https://github-readme-stats.vercel.app/api?username=KRTirtho&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KRTirtho's GitHub stats" /></a>
-<a href="http://www.github.com/KRTirtho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KRTirtho&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/KRTirtho" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRTirtho&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Socials
+<p align="left">
+   <a href="https://www.dev.to/krtirtho" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+   </a>
+   <a href="https://www.twitter.com/@KrTirtho" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+   </a>
+   <a href="https://www.linkedin.com/in/kingkor-roy-tirtho-810b951b4" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+   </a>
+ </p>
 
 ### Support Me
 
