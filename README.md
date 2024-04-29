@@ -5,7 +5,7 @@ Frontend developer who's weapon of choice is Flutter and for Millie attacks, I u
 
 * 🌍  Ever hear of Bangladesh? It's a country in South Asia. I'm from there
 * 🖥️  See my portfolio at [krtirtho.dev](https://krtirtho.dev)
-* 🚀  I'm currently working on [Fl-Query](http://github.com/KRTirtho/fl-query)
+* 🚀  I'm currently working on [Spotube](http://github.com/KRTirtho/spotube)
 * 🧠  I'm learning nothing. Exam's killing me
 * ⚡  Fun Fact: There's no Web 3. It's just a marketing term. The closest to web 3 is the [fediverse](https://fediverse.party/)
 
