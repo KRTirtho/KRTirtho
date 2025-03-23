@@ -3,7 +3,7 @@ Kingkor Roy Tirtho
 
 Frontend developer who's weapon of choice is Flutter and for Millie attacks, I use NextJS.
 
-* 🌍  Ever hear of Bangladesh? It's a country in South Asia. I'm from there
+* 🌍  Ever heard of Bangladesh? It's a country in South Asia. I'm from there
 * 🖥️  See my portfolio at [krtirtho.dev](https://krtirtho.dev)
 * 🚀  I'm currently working on [Spotube](http://github.com/KRTirtho/spotube)
 * 🧠  I'm learning nothing. Exam's killing me
