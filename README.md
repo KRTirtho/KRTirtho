@@ -84,4 +84,3 @@ Frontend developer who's weapon of choice is Flutter and for Millie attacks, I u
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/krtirtho"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-<a href='https://ko-fi.com/krtirtho' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
